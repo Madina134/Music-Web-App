@@ -1,0 +1,30 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(226, 43, 67);
+}
+
+.note
+{
+    font-size: 14px;
+    color: rgb(228, 38, 193);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-size: cover;
+}
+
+.song
+{
+    width: 150px;
+    font-size: 25px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
